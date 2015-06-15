@@ -1,7 +1,7 @@
 ---
-title:Install Jekyll on Ubuntu 14.04 LTS
+title: Install Jekyll on Ubuntu 14.04 LTS
 
-layout:post
+layout: post
 
 ---
 The first server we're going to be running Different Circle on is a small VM hosted on [Memset](http://memset.com). I selected to use Ubuntu 14.04 LTS.
